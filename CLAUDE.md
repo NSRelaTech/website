@@ -61,6 +61,7 @@ body.sr [data-lang="sr"] { display: block !important; }
 | [my-community](https://github.com/Citizen-Infra/my-community) | Chrome extension — community dashboard with Bluesky |
 | [community-admin](https://github.com/Citizen-Infra/community-admin) | Admin platform for organizers (WIP) |
 | [scenius-digest](../scenius-digest/) | Provides the events API — monitors NSRT Telegram group and Luma calendar |
+| [meetups](https://github.com/NSRelaTech/meetups) | NSRT community meetup materials — decks, session briefs, planning docs |
 
 ## Design Principles
 
